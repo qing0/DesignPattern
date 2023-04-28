@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\bin\Debug\net6.0\Bridge.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\bin\Debug\net6.0\Bridge.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\bin\Debug\net6.0\Bridge.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\bin\Debug\net6.0\Bridge.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\Bridge.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\refint\Bridge.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\Bridge.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Bridge\obj\Debug\net6.0\ref\Bridge.dll

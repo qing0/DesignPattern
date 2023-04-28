@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Decorator\obj\Debug\net6.0\ref\Decorator.dll

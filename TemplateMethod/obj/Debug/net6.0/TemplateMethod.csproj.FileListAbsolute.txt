@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\refint\TemplateMethod.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll

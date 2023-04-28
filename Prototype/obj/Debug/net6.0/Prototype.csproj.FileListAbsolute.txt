@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Prototype\obj\Debug\net6.0\ref\Prototype.dll

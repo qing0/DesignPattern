@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\bin\Debug\net6.0\Facade.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\bin\Debug\net6.0\Facade.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\bin\Debug\net6.0\Facade.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\bin\Debug\net6.0\Facade.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\bin\Debug\net6.0\Facade.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\Facade.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\Facade.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\Facade.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\Facade.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\Facade.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\refint\Facade.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\Facade.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\Facade.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Facade\obj\Debug\net6.0\ref\Facade.dll

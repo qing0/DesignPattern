@@ -1,0 +1,5 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\netcoreapp3.0\Observer.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\netcoreapp3.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\netcoreapp3.0\Observer.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\netcoreapp3.0\Observer.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\netcoreapp3.0\Observer.csproj.CoreCompileInputs.cache

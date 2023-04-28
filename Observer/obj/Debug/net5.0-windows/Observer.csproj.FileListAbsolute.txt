@@ -1,0 +1,1 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net5.0-windows\Observer.csproj.AssemblyReference.cache

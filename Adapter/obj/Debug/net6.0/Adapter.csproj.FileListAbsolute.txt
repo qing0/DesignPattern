@@ -1,0 +1,17 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\bin\Debug\net6.0\Adapter.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\bin\Debug\net6.0\TangentImport.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Adapter\obj\Debug\net6.0\Adapter.csproj.CopyComplete

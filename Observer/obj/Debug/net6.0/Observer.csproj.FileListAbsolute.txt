@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\bin\Debug\net6.0\Observer.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\bin\Debug\net6.0\Observer.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\bin\Debug\net6.0\Observer.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\bin\Debug\net6.0\Observer.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\bin\Debug\net6.0\Observer.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\Observer.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\Observer.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\Observer.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\Observer.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\Observer.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\refint\Observer.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\Observer.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\Observer.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Observer\obj\Debug\net6.0\ref\Observer.dll

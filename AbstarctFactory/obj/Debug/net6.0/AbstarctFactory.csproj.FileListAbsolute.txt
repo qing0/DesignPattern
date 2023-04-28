@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\AbstarctFactory.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\AbstarctFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\AbstarctFactory.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\AbstarctFactory.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\AbstarctFactory.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\bin\Debug\net6.0\AbstarctFactory.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\bin\Debug\net6.0\AbstarctFactory.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\bin\Debug\net6.0\AbstarctFactory.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\bin\Debug\net6.0\AbstarctFactory.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\bin\Debug\net6.0\AbstarctFactory.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\AbstarctFactory.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\refint\AbstarctFactory.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\AbstarctFactory.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\AbstarctFactory.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\AbstarctFactory\obj\Debug\net6.0\ref\AbstarctFactory.dll

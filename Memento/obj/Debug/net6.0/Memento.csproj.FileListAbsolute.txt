@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\bin\Debug\net6.0\Memento.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\bin\Debug\net6.0\Memento.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\bin\Debug\net6.0\Memento.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\bin\Debug\net6.0\Memento.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\bin\Debug\net6.0\Memento.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\Memento.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\Memento.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\Memento.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\Memento.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\Memento.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\refint\Memento.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\Memento.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\Memento.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Memento\obj\Debug\net6.0\ref\Memento.dll

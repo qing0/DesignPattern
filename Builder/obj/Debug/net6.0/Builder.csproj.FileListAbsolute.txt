@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\bin\Debug\net6.0\Builder.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\bin\Debug\net6.0\Builder.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\bin\Debug\net6.0\Builder.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\bin\Debug\net6.0\Builder.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\Builder.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\refint\Builder.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\Builder.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Builder\obj\Debug\net6.0\ref\Builder.dll

@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\bin\Debug\net6.0\Iterator.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\bin\Debug\net6.0\Iterator.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\bin\Debug\net6.0\Iterator.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\bin\Debug\net6.0\Iterator.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\bin\Debug\net6.0\Iterator.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\Iterator.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\Iterator.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\Iterator.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\Iterator.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\refint\Iterator.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\Iterator.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\Iterator.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Iterator\obj\Debug\net6.0\ref\Iterator.dll

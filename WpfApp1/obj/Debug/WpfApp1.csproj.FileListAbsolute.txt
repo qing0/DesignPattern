@@ -1,0 +1,16 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\bin\Debug\WpfApp1.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\App.g.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\MainWindow.baml
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\WpfApp1\obj\Debug\WpfApp1.pdb

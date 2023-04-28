@@ -1,0 +1,15 @@
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\bin\Debug\net6.0\Factory.exe
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\bin\Debug\net6.0\Factory.deps.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\bin\Debug\net6.0\Factory.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\bin\Debug\net6.0\Factory.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\Factory.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\refint\Factory.dll
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\Factory.pdb
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
+D:\SelfProject\CODE\TRAIN\DesignPattern\Factory\obj\Debug\net6.0\ref\Factory.dll
